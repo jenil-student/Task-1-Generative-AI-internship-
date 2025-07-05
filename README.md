@@ -1,5 +1,6 @@
 # Text Generation with GPT-2
-![image](https://github.com/user-attachments/assets/0ce8bcdd-1519-4de8-9e3d-c5705a2387f1)
+![image](https://github.com/user-attachments/assets/fa942b17-e36d-4607-be87-1cfd1fb6729f)
+
 
 
 This task demonstrates how to fine-tune a GPT-2 model on a custom dataset to generate coherent and contextually relevant text based on a given prompt.
